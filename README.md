@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="mailto:support@hostware.fr">
-    <img src="https://img.shields.io/badge/Email-contact@hostware.fr-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-support@hostware.fr-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://hostware.fr">
     <img src="https://img.shields.io/badge/Hostware-Hébergeur%20Gaming-blue?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Hostware"/>
