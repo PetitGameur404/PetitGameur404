@@ -42,18 +42,6 @@
 
 <div align="center">
   
-  <h3>🎨 Riselio</h3>
-  <img src="https://i.imgur.com/NHmUOpb.png" alt="Riselio Banner" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
-  <br /><br />
-  <b>Stack Technique</b>
-  <br />
-  <img src="https://skillicons.dev/icons?i=nextjs,postgres,supabase,tailwind" alt="Riselio Stack"/>
-  <br />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Better--Auth-blueviolet?style=for-the-badge" />
-  
-  <br /><br />
-
   <h3>☁️ Hostware</h3>
   <a href="https://hostware.fr" target="_blank">
     <img src="https://i.imgur.com/RQFBbqu.jpeg" alt="Hostware Banner" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
@@ -66,6 +54,18 @@
   <img src="https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Better--Auth-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pterodactyl-API-105bd8?style=for-the-badge&logo=pterodactyl&logoColor=white" />
+
+  <br />
+
+  <h3>🎨 Riselio</h3>
+  <img src="https://i.imgur.com/NHmUOpb.png" alt="Riselio Banner" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
+  <br /><br />
+  <b>Stack Technique</b>
+  <br />
+  <img src="https://skillicons.dev/icons?i=nextjs,postgres,supabase,tailwind" alt="Riselio Stack"/>
+  <br />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Better--Auth-blueviolet?style=for-the-badge" />
 
 </div>
 
