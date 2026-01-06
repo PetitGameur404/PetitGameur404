@@ -56,7 +56,7 @@
 
   <h3>☁️ Hostware</h3>
   <a href="https://hostware.fr" target="_blank">
-    <img src="https://i.imgur.com/0AwuQWd.png" alt="Hostware Banner" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
+    <img src="https://i.imgur.com/RQFBbqu.jpeg" alt="Hostware Banner" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
   </a>
   <br /><br />
   <b>Stack Technique</b>
