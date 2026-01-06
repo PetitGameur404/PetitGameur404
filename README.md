@@ -46,7 +46,12 @@
   <a href="https://hostware.fr" target="_blank">
     <img src="https://i.imgur.com/RQFBbqu.jpeg" alt="Hostware Banner" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
   </a>
-  <br /><br />
+  
+  <p style="max-width: 600px; margin: 10px auto; font-style: italic;">
+    Bien plus qu'un prestataire, un partenaire de confiance offrant des solutions d'hébergement gaming performantes, fiables et accessibles.<br/>
+    Nous allions innovation technologique et support réactif pour transformer vos idées en réalité, sans compromis sur la qualité.
+  </p>
+
   <b>Stack Technique</b>
   <br />
   <img src="https://skillicons.dev/icons?i=nextjs,postgres,supabase,tailwind" alt="Hostware Stack"/>
@@ -55,11 +60,16 @@
   <img src="https://img.shields.io/badge/Better--Auth-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pterodactyl-API-105bd8?style=for-the-badge&logo=pterodactyl&logoColor=white" />
 
-  <br />
+  <br /><br />
 
   <h3>🎨 Riselio</h3>
   <img src="https://i.imgur.com/NHmUOpb.png" alt="Riselio Banner" width="700px" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
-  <br /><br />
+  
+  <p style="max-width: 600px; margin: 10px auto; font-style: italic;">
+    L'outil ultime pour particuliers et entrepreneurs : automatisez la recherche approfondie, l'achat et la revente de vêtements sur Vinted.<br/>
+    Riselio identifie et acquiert les meilleures pépites pour vous permettre de développer votre business de seconde main efficacement.
+  </p>
+
   <b>Stack Technique</b>
   <br />
   <img src="https://skillicons.dev/icons?i=nextjs,postgres,supabase,tailwind" alt="Riselio Stack"/>
