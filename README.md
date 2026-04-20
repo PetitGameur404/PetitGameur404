@@ -54,7 +54,7 @@
 
   <b>Stack Technique</b>
   <br />
-  <img src="https://skillicons.dev/icons?i=nuxt,mysql,tailwind,daisyui" alt="Hostware Stack"/>
+  <img src="https://skillicons.dev/icons?i=nuxt,mysql,tailwind,astro,cloudflare,docker,linux" alt="Hostware Stack"/>
   <br />
   <img src="https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Better--Auth-blueviolet?style=for-the-badge" />
