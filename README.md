@@ -56,7 +56,7 @@
   <br />
   <img src="https://skillicons.dev/icons?i=nuxt,mysql,tailwind,astro,cloudflare,docker,linux" alt="Hostware Stack"/>
   <br />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-black?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/Better--Auth-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pterodactyl-API-105bd8?style=for-the-badge&logo=pterodactyl&logoColor=white" />
 
